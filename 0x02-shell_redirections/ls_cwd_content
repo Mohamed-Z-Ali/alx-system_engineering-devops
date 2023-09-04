@@ -1,1 +1,14 @@
-ls -la
+total 0
+drwxr-xr-x 1 mohamed mohamed 4096 Sep  4 18:32 .
+drwxr-xr-x 1 mohamed mohamed 4096 Sep  4 17:01 ..
+-rwxr--r-- 1 mohamed mohamed   32 Sep  4 17:04 0-hello_world
+-rwxr--r-- 1 mohamed mohamed   28 Sep  4 17:33 1-confused_smiley
+-rwxr--r-- 1 mohamed mohamed   28 Sep  4 17:36 2-hellofile
+-rwxr--r-- 1 mohamed mohamed   39 Sep  4 17:38 3-twofiles
+-rwxr--r-- 1 mohamed mohamed   35 Sep  4 17:41 4-lastlines
+-rwxr--r-- 1 mohamed mohamed   35 Sep  4 17:44 5-firstlines
+-rwxr--r-- 1 mohamed mohamed   40 Sep  4 17:54 6-third_line
+-rwxr--r-- 1 mohamed mohamed   99 Sep  4 18:13 7-file
+-rwxr--r-- 1 mohamed mohamed   36 Sep  4 18:32 8-cwd_state
+-rw-r--r-- 1 mohamed mohamed    9 Sep  4 17:01 README.md
+-rw-r--r-- 1 mohamed mohamed    0 Sep  4 18:32 ls_cwd_content
